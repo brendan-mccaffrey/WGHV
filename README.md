@@ -1,6 +1,10 @@
 # Wharton-Volunteers
 
+This is a web application created to connect donors/volunteers with underrepresented hospitals accross the globe.
+
 [Platform](https://transformationalimpact.org)
+
+[About](https://transformationalimpact.org/about.html)
 
 [Report](https://report.transformationalimpact.org)
 
